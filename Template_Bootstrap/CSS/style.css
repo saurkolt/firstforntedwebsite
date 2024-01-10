@@ -1,0 +1,25 @@
+
+.header{
+height: 90vh;
+width: 100%;
+/* background-color: black; */
+color: white;
+background-image: linear-gradient(to right,rgba(32, 124, 229, 0.2),rgba(255, 70, 70, 0.4)) ,url(/Images/LRM_EXPORT_20200328_120747.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+.h-100{
+    height: 100%;
+    width: 100%;
+}
+.btn{
+    border-radius: 10rem !important;
+    padding: 1.25rem 2.24rem !important;
+}
+.message{
+    background: linear-gradient(to top,#fad0c4 0%,#ffd1ff 100%);
+}
+.myicon{
+    font-size: 60px;
+    padding: 20px;
+}
